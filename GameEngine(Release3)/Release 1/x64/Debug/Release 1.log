@@ -1,0 +1,56 @@
+﻿  AImap.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Animator.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Base.cpp
+  Bullet.cpp
+  BulletList.cpp
+  Character.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  CharacterList.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Collider.cpp
+  Element.cpp
+  Enemy.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  EnemyArrow.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\enemyarrow.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\enemyarrow.cpp(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\enemyarrow.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\enemyarrow.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\enemyarrow.cpp(46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\enemyarrow.cpp(47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Environment.cpp
+  ErrorManagement.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\errormanagement.cpp(2): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Game.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\game.h(5): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Health.cpp
+  healthObject.cpp
+  InputManager.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\inputmanager.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Inventory.cpp
+  Main.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\game.h(5): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  MainCharacter.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Generating Code...
+  Compiling...
+  MenuButtons.cpp
+  MenuList.cpp
+  Npc.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Object.cpp
+  objectList.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\objectlist.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PowerUp.cpp
+  Ranking.cpp
+  rankingUser.cpp
+  SDLInterface.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Sprite.cpp
+  Terrain.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Tile.cpp
+c:\users\weaverr\downloads\enti-master\2015-2016\tecnología de la programación(c++) 2015-2016\gameengine(release3)\release 1\sdlinterface.h(4): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Generating Code...
